@@ -21,7 +21,32 @@ void PrintArray(int[] shablonmassiv2)             //Воид метод ниче
     }
 }
 
+int IndexOf(int[] shablonmassiv, int find)
+{
+    int count = shablonmassiv.Length;
+    int index = 0;
+    int position = -1;
+    while(index < count)
+    {
+        if(shablonmassiv[index] == find)
+        {
+            position = index;
+            break;
+        }
+        index++;
+    }
+    return position;
+}
+
 int[] array = new int[10];   //ДОСЛОВНО - СОЗДАЙ НОВЫЙ МАССИВ, В КОТОРОМ БУДЕТ 10 ЭЛЕМЕНТОВ
 
 FillArray(array); //МЕТОД(ФУНКЦИЯ) КОТОРЫЙ ЗАПОЛНИЛ МАССИВ ДЛЯ ПЕЧАТИ(СЛЕДУЮЩАЯ СТРОКА)
+
+array[4] = 88;
+array[6] = 88;
+
 PrintArray(array);
+Console.WriteLine();
+
+int pos = IndexOf(array, 3);
+Console.WriteLine(pos);
