@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Examples\\Example007_Magic\\Example007_Magic.csproj": {}
+    "C:\\Users\\user\\Desktop\\Examples\\Ex8_IntroMethod\\Ex8_IntroMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Examples\\Example007_Magic\\Example007_Magic.csproj": {
+    "C:\\Users\\user\\Desktop\\Examples\\Ex8_IntroMethod\\Ex8_IntroMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Examples\\Example007_Magic\\Example007_Magic.csproj",
-        "projectName": "Example007_Magic",
-        "projectPath": "C:\\Users\\user\\Desktop\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Examples\\Ex8_IntroMethod\\Ex8_IntroMethod.csproj",
+        "projectName": "Ex8_IntroMethod",
+        "projectPath": "C:\\Users\\user\\Desktop\\Examples\\Ex8_IntroMethod\\Ex8_IntroMethod.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Examples\\Example007_Magic\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Examples\\Ex8_IntroMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
