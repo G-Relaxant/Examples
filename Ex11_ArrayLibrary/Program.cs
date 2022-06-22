@@ -40,12 +40,12 @@ int IndexOf(int[] shablonmassiv, int find)
 
 int[] array = new int[10];   //ДОСЛОВНО - СОЗДАЙ НОВЫЙ МАССИВ, В КОТОРОМ БУДЕТ 10 ЭЛЕМЕНТОВ
 
-FillArray(array); //МЕТОД(Процедура) КОТОРЫЙ ЗАПОЛНИЛ МАССИВ ДЛЯ ПЕЧАТИ(СЛЕДУЮЩАЯ СТРОКА)
+FillArray(array); //МЕТОД(Процедура) КОТОРЫЙ ЗАПОЛНИЛ МАССИВ array
 
 array[4] = 88;
 array[6] = 88;
 
-PrintArray(array);
+PrintArray(array);   //Печать массива array по методу в консоль
 Console.WriteLine();
 
 int pos = IndexOf(array, 3);
