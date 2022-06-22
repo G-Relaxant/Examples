@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\Ex12_Cycle_For.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\Ex12_Cycle_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\Ex12_Cycle_For.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\Ex12_Cycle_For.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\Ex12_Cycle_For.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\bin\Debug\net6.0\Ex12_Cycle_For.exe
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\bin\Debug\net6.0\Ex12_Cycle_For.deps.json
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\bin\Debug\net6.0\Ex12_Cycle_For.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\bin\Debug\net6.0\Ex12_Cycle_For.dll
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\bin\Debug\net6.0\Ex12_Cycle_For.pdb
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\Ex12_Cycle_For.dll
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\refint\Ex12_Cycle_For.dll
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\Ex12_Cycle_For.pdb
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\Ex12_Cycle_For.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Ex12_Cycle_For\obj\Debug\net6.0\ref\Ex12_Cycle_For.dll

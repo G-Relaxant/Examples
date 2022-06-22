@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\bin\Debug\net6.0\Ex9_IntroArray.exe
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\bin\Debug\net6.0\Ex9_IntroArray.deps.json
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\bin\Debug\net6.0\Ex9_IntroArray.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\bin\Debug\net6.0\Ex9_IntroArray.dll
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\bin\Debug\net6.0\Ex9_IntroArray.pdb
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\Ex9_IntroArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\Ex9_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\Ex9_IntroArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\Ex9_IntroArray.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\Ex9_IntroArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\Ex9_IntroArray.dll
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\refint\Ex9_IntroArray.dll
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\Ex9_IntroArray.pdb
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\Ex9_IntroArray.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Ex9_IntroArray\obj\Debug\net6.0\ref\Ex9_IntroArray.dll

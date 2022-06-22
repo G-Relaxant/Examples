@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\Ex11_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\Ex11_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\Ex11_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\Ex11_ArrayLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\Ex11_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\bin\Debug\net6.0\Ex11_ArrayLibrary.exe
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\bin\Debug\net6.0\Ex11_ArrayLibrary.deps.json
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\bin\Debug\net6.0\Ex11_ArrayLibrary.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\bin\Debug\net6.0\Ex11_ArrayLibrary.dll
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\bin\Debug\net6.0\Ex11_ArrayLibrary.pdb
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\Ex11_ArrayLibrary.dll
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\refint\Ex11_ArrayLibrary.dll
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\Ex11_ArrayLibrary.pdb
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\Ex11_ArrayLibrary.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Ex11_ArrayLibrary\obj\Debug\net6.0\ref\Ex11_ArrayLibrary.dll

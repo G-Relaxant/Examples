@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\bin\Debug\net6.0\Ex8_IntroMethod.exe
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\bin\Debug\net6.0\Ex8_IntroMethod.deps.json
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\bin\Debug\net6.0\Ex8_IntroMethod.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\bin\Debug\net6.0\Ex8_IntroMethod.dll
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\bin\Debug\net6.0\Ex8_IntroMethod.pdb
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\Ex8_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\Ex8_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\Ex8_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\Ex8_IntroMethod.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\Ex8_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\Ex8_IntroMethod.dll
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\refint\Ex8_IntroMethod.dll
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\Ex8_IntroMethod.pdb
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\Ex8_IntroMethod.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Ex8_IntroMethod\obj\Debug\net6.0\ref\Ex8_IntroMethod.dll

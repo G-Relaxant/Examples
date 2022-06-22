@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\bin\Debug\net6.0\Ex10_MethodArray.exe
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\bin\Debug\net6.0\Ex10_MethodArray.deps.json
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\bin\Debug\net6.0\Ex10_MethodArray.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\bin\Debug\net6.0\Ex10_MethodArray.dll
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\bin\Debug\net6.0\Ex10_MethodArray.pdb
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\Ex10_MethodArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\Ex10_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\Ex10_MethodArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\Ex10_MethodArray.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\Ex10_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\Ex10_MethodArray.dll
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\refint\Ex10_MethodArray.dll
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\Ex10_MethodArray.pdb
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\Ex10_MethodArray.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Ex10_MethodArray\obj\Debug\net6.0\ref\Ex10_MethodArray.dll
