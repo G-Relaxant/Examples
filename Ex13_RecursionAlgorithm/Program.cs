@@ -41,7 +41,7 @@ for (int currentRow = 0; currentRow < row; currentRow++)
 */
 
 
-
+// Плюсик)
 /*
 int row = 20;
 int column = 22;
@@ -96,8 +96,8 @@ for (int i = 0; i < matrix.GetLength(0); i++)           // Новая коман
 
 
 
-// SLADKIY PERSIK
-
+// SLADKIY PERSIK^^
+/*
 int[,] Persik = new int[28, 37];
 //FillArray(matrix);
 GoldenPeach(Persik);
@@ -272,6 +272,7 @@ void PrintPeach(int[,] a)
             {
                 Console.Write("(3)");
             }
+
             if(a[i, j] == 1)
             {
                 Console.Write(" + ");
@@ -292,4 +293,40 @@ void FillImage(int[,] a, int row, int col)
         FillImage(a, row, col + 1);
     }
 }
+*/
 
+
+
+
+// Чтобы понять рекурсию, нужно понять рекурсию, затем нужно понять рекурсию, затем нужно понять рекурсию, зате[SystemError:memory_failed_operation_write; processor_pinzdes_hot'_i_ryzen]
+
+
+// Factorial
+/*
+int Factorial (int n)
+{
+    if(n == 1) return 1;
+    else return n * Factorial(n-1);
+}
+Console.WriteLine(Factorial(3)); //1*2*3 = 6
+*/
+
+double Factorial (int n)
+{
+    if(n == 1) return 1;
+    else return n * Factorial(n-1);
+}
+for(int i = 1; i < 9; i++)
+{
+    Console.WriteLine($"{i}! = {Factorial(i)}");
+}
+
+double Fibonacci(int n)   // f(1) = 1 ; f(2) = 1 ; f(n) = f(n - 1) + f(n - 2)
+{
+    if(n == 1 || n == 2) return 1;
+    else return Fibonacci(n-1) + Fibonacci(n-2);
+}
+for(int i = 1; i < 49; i++)
+{
+    Console.WriteLine($"f({i}) = {Fibonacci(i)}");
+}
