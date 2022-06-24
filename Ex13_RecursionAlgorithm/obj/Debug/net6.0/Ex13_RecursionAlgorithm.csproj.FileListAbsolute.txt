@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\bin\Debug\net6.0\Ex13_RecursionAlgorithm.exe
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\bin\Debug\net6.0\Ex13_RecursionAlgorithm.deps.json
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\bin\Debug\net6.0\Ex13_RecursionAlgorithm.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\bin\Debug\net6.0\Ex13_RecursionAlgorithm.dll
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\bin\Debug\net6.0\Ex13_RecursionAlgorithm.pdb
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\Ex13_RecursionAlgorithm.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\Ex13_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\Ex13_RecursionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\Ex13_RecursionAlgorithm.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\Ex13_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\Ex13_RecursionAlgorithm.dll
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\refint\Ex13_RecursionAlgorithm.dll
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\Ex13_RecursionAlgorithm.pdb
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\Ex13_RecursionAlgorithm.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Examples\Ex13_RecursionAlgorithm\obj\Debug\net6.0\ref\Ex13_RecursionAlgorithm.dll
