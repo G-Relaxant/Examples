@@ -42,7 +42,7 @@ for (int currentRow = 0; currentRow < row; currentRow++)
 
 
 
-
+/*
 int row = 20;
 int column = 22;
 
@@ -78,7 +78,7 @@ for (int currentRow = 0; currentRow < row; currentRow++)
     }
     Console.WriteLine("");
 }
-
+*/
 
 
 
@@ -95,14 +95,18 @@ for (int i = 0; i < matrix.GetLength(0); i++)           // Новая коман
 
 
 
+
 // SLADKIY PERSIK
 
 int[,] Persik = new int[28, 37];
-//Console.WriteLine();
 //FillArray(matrix);
 GoldenPeach(Persik);
-//PrintArray(PersikPopka);
+//PrintArray(Persik);
 PrintPeach(Persik);
+FillImage(Persik, 13, 8);
+FillImage(Persik, 13, 30);
+PrintPeach(Persik);
+
 
 void FillArray(int[,] a)
 {
@@ -110,7 +114,7 @@ void FillArray(int[,] a)
     {
         for (int j = 0; j < a.GetLength(1); j++)
         {
-            Persik[i, j] = new Random().Next(1,10);
+            a[i, j] = new Random().Next(1,10);
         }
     }
 }
@@ -264,11 +268,28 @@ void PrintPeach(int[,] a)
             {
                 Console.Write("   ");
             }
-            else
+            if(a[i, j] == 3)
             {
                 Console.Write("(3)");
+            }
+            if(a[i, j] == 1)
+            {
+                Console.Write(" + ");
             }
         }
     Console.WriteLine("");
     }
 }
+
+void FillImage(int[,] a, int row, int col)      
+{
+    if(a[row, col] == 0)
+    {
+        a[row, col] = 1;
+        FillImage(a, row - 1, col);
+        FillImage(a, row, col - 1);
+        FillImage(a, row + 1, col);
+        FillImage(a, row, col + 1);
+    }
+}
+
