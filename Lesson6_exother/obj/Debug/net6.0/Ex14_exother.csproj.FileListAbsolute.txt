@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\Ex14_exother.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\Ex14_exother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\Ex14_exother.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\Ex14_exother.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\Ex14_exother.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\bin\Debug\net6.0\Ex14_exother.exe
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\bin\Debug\net6.0\Ex14_exother.deps.json
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\bin\Debug\net6.0\Ex14_exother.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\bin\Debug\net6.0\Ex14_exother.dll
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\bin\Debug\net6.0\Ex14_exother.pdb
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\Ex14_exother.dll
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\refint\Ex14_exother.dll
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\Ex14_exother.pdb
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\Ex14_exother.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Examples\Ex14_exother\obj\Debug\net6.0\ref\Ex14_exother.dll
