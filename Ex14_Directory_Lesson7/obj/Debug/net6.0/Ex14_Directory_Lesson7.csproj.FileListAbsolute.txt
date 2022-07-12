@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\bin\Debug\net6.0\Ex14_Directory_Lesson7.exe
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\bin\Debug\net6.0\Ex14_Directory_Lesson7.deps.json
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\bin\Debug\net6.0\Ex14_Directory_Lesson7.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\bin\Debug\net6.0\Ex14_Directory_Lesson7.dll
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\bin\Debug\net6.0\Ex14_Directory_Lesson7.pdb
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\Ex14_Directory_Lesson7.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\Ex14_Directory_Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\Ex14_Directory_Lesson7.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\Ex14_Directory_Lesson7.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\Ex14_Directory_Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\Ex14_Directory_Lesson7.dll
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\refint\Ex14_Directory_Lesson7.dll
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\Ex14_Directory_Lesson7.pdb
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\Ex14_Directory_Lesson7.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Examples\Ex14_Directory_Lesson7\obj\Debug\net6.0\ref\Ex14_Directory_Lesson7.dll
