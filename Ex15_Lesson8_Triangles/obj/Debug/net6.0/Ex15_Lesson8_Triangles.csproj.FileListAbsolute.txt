@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\bin\Debug\net6.0\Ex15_Lesson8_Triangles.exe
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\bin\Debug\net6.0\Ex15_Lesson8_Triangles.deps.json
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\bin\Debug\net6.0\Ex15_Lesson8_Triangles.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\bin\Debug\net6.0\Ex15_Lesson8_Triangles.dll
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\bin\Debug\net6.0\Ex15_Lesson8_Triangles.pdb
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\Ex15_Lesson8_Triangles.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\Ex15_Lesson8_Triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\Ex15_Lesson8_Triangles.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\Ex15_Lesson8_Triangles.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\Ex15_Lesson8_Triangles.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\Ex15_Lesson8_Triangles.dll
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\refint\Ex15_Lesson8_Triangles.dll
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\Ex15_Lesson8_Triangles.pdb
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\Ex15_Lesson8_Triangles.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Examples\Ex15_Lesson8_Triangles\obj\Debug\net6.0\ref\Ex15_Lesson8_Triangles.dll
